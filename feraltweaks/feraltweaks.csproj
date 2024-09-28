@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net80</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
     <AssemblyName>feraltweaks</AssemblyName>
     <Description>Chart modification system and various tweaks</Description>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
